@@ -1,0 +1,2 @@
+class AntagonistsController < ApplicationController
+end

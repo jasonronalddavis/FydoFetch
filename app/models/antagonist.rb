@@ -1,0 +1,2 @@
+class Antagonist < ApplicationRecord
+end
