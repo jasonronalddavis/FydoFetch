@@ -1,0 +1,3 @@
+git co -b item_model
+
+rails g resource Item type
